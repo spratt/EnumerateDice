@@ -1,0 +1,16 @@
+Enumerate Dice
+By Simon Pratt
+======================================================================
+
+Enumerates possible results of rolling an arbitrary number of
+arbitrarily sided dice.
+
+To run:
+
+   ./enumerate_dice.py [NUMBER_OF_DICE [SIDES]]
+
+The defaults are:
+
+    NUMBER_OF_DICE=4
+    SIDES=6
+
